@@ -1,0 +1,3 @@
+rootProject.name = 'unfollower'
+
+include ':app'
